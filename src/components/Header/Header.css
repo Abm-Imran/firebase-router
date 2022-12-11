@@ -1,4 +1,10 @@
-nav .nav-bar{
+.nav-bar{
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-bar a{
     margin-left: 20px;
     text-decoration: none;
 }

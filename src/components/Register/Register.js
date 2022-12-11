@@ -4,11 +4,11 @@ const Register = () => {
     return (
         <div>
             <form action="">
-                <input type="text" />
+                <input type="text" name="" id="" placeholder='your name' />
                 <br />
-                <input type="email" name="" id="" />
+                <input type="email" name="" id="" placeholder='your email' />
                 <br />
-                <input type="password" name="" id="" />
+                <input type="password" name="" id="" placeholder='your password' />
                 <br />
                 <input type="submit" value="Register" />
 
